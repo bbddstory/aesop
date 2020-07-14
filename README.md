@@ -21,3 +21,9 @@ In another terminal windows, install packages:
 Then start normally:
 
 ### `npm start`
+
+## A Message for the Reviewers
+
+I was only given a couple of days to do this whilst finishing a lot of work from my day job. So I really didn't have time to implement literally everything in the doc, and I had to leave out the unit tests. Sorry about that, but this was the best I could do for the time being. As for everything else though, I've done it as thoroughly as possible.
+
+Thank you!
